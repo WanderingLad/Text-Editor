@@ -7,7 +7,7 @@ This takes an existing text editor and add the ability to use PWA and offline fu
 npm install -> npm run start:dev
   
 ## Screenshot
-*![Screenshot](/img/screenshot.PNG)
+![Screenshot](/img/screenshot.PNG)
   
 ## Credits
 James Reilly - https://github.com/WanderingLad/
